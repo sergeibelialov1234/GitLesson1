@@ -1,3 +1,9 @@
 test.txt
 credit_card.txt
 /src
+ignore_me.txt
+ignore_me1.txt
+ignore_me2.txt
+ignore_me3.txt
+
+ignore_me[1-3].txt
